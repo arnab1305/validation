@@ -1,0 +1,12 @@
+.form-input {
+    color: gray;
+    font-size: 18px;
+    display: block;
+    margin-top: 8px;
+    outline: none;
+  }
+  .form-input-label {
+    color: rgb(48, 48, 48);
+    font-size: 16px;
+    font-weight: normal;
+  }

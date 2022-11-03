@@ -1,0 +1,13 @@
+.form-input-label {
+  color: rgb(48, 48, 48);
+  font-size: 16px;
+  font-weight: normal;
+}
+.form-input-textarea {
+  color: gray;
+  font-size: 18px;
+  display: block;
+  margin-top: 8px;
+  width: 100%;
+  outline: none;
+}

@@ -1,0 +1,17 @@
+.main-container {
+  background-color: rgb(48, 48, 48);
+  width: 40%;
+  height: 80vh;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  padding: 10px;
+}
+h2 {
+  margin-top: 0px;
+  color: aliceblue;
+}
+.no-ticket-box {
+  color: aliceblue;
+  margin: 200px 0px 0px 170px;
+}
